@@ -1,0 +1,118 @@
+{
+    "personal_info": {
+        "name": "Mohammed EL-Hetemy",
+        "email": "elhetemymohammed@email.com",
+        "phone": "+201222146001",
+        "location": "New Cairo, Egy",
+        "linkedin": "",
+        "github": "github.com/elhetemy",
+        "portfolio": ""
+    },
+    "summary": "Data Analyst & AI Engineer with hands-on experience turning raw data into actionable insights and building intelligent systems. Proficient in Python-based analysis and machine learning pipelines, with advanced skills in Power BI and Tableau for business intelligence. Passionate about bridging the gap between data science and real-world decision-making.",
+    "skills": {
+        "Data Analysis": [
+            "Python (Pandas, NumPy)",
+            "SQL (MySQL)",
+            "Jupyter Notebook",
+            "Excel"
+        ],
+        "Data Visualization": [
+            "Power BI",
+            "DAX",
+            "Tableau",
+            "Matplotlib",
+            "Seaborn"
+        ],
+        "Machine & Deep Learning": [
+            "Scikit-learn",
+            "TensorFlow",
+            "Keras",
+            "Model Evaluation & Tuning"
+        ],
+        "Languages & Tools": [
+            "Python",
+            "SQL",
+            "Git",
+            "VS Code"
+        ]
+    },
+    "experience": [
+        {
+            "company": "Tech Corp",
+            "role": "Data Analyst & AI Engineer",
+            "dates": "Jan 2022 - Present",
+            "location": "Remote",
+            "bullets": [
+                "Analyzed complex financial datasets for a U.S. car retail corporation, identifying revenue trends and pricing patterns that informed executive-level business decisions.",
+                "Diagnosed and resolved critical data quality issues in a CRM system  profiled the full dataset, traced root causes of inconsistencies, and delivered a structured remediation roadmap adopted by the engineering team.",
+                "Built and deployed 4 end-to-end predictive models (customer churn, breast cancer classification, fuel consumption regression, and CRM ticket auto-routing) using Scikit-learn, TensorFlow, and Keras  reducing manual ticket triage time and improving model accuracy across all projects.",
+                "Developed an AI-powered CV generator using Python and Streamlit, delivering a dynamic, ATS-optimized tool that boosted user engagement by 40%."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "University of Technology",
+            "degree": "B.S. in Communication engineering",
+            "dates": "Sep 2011 - May 2016"
+        },
+        {
+            "institution": "AMIT Learning center",
+            "degree": "data science and AI diploma",
+            "dates": "2023"
+        },
+        {
+            "institution": "MTC",
+            "degree": "MSc in data science and Artificial Intelligence",
+            "dates": "2024-now"
+        }
+        
+    ],
+    "projects": [
+        {
+            "name": "Smart CV Builder",
+            "technologies": [
+                "Python",
+                "Streamlit",
+                "JSON",
+                "Anthropic API"
+            ],
+            "link": "github.com/elhetemy/smart-cv",
+            "bullets": [
+                "Architected an AI-powered CV generator with live preview, skill vault management, and job-description tailoring via Claude API.",
+                "Implemented real-time streaming responses and session state management for a seamless editing experience."
+            ]
+        },
+        {
+            "name": "CRM Ticket Auto-Router",
+            "technologies": [
+                "Python",
+                "Scikit-learn",
+                "NLP",
+                "Pandas"
+            ],
+            "link": "",
+            "bullets": [
+                "Built a multi-class text classification model to automatically categorize and route incoming CRM support tickets to the correct department.",
+                "Reduced manual triage effort and improved first-response routing accuracy using TF-IDF vectorization and ensemble classifiers."
+            ]
+        },
+        {
+            "name": "Customer Churn Prediction",
+            "technologies": [
+                "Python",
+                "Scikit-learn",
+                "TensorFlow",
+                "Pandas",
+                "Matplotlib"
+            ],
+            "link": "",
+            "bullets": [
+                "Developed a binary classification pipeline to predict customer churn, enabling proactive retention strategies.",
+                "Applied feature engineering, SMOTE for class imbalance, and hyperparameter tuning to maximize recall on the minority class."
+            ]
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}
