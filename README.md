@@ -30,12 +30,6 @@ CV.Studio is a local-first, AI-powered CV builder built with Python and Streamli
 
 ---
 
-## ✦ Screenshots
-
-> _Add screenshots here after running the app locally._
-
----
-
 ## ✦ Getting Started
 
 ### 1. Clone the repository
