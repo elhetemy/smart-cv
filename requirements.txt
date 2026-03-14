@@ -1,0 +1,4 @@
+streamlit
+anthropic
+reportlab
+python-dotenv

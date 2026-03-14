@@ -1,0 +1,49 @@
+{
+    "personal_info": {
+        "name": "Your Full Name",
+        "email": "you@email.com",
+        "phone": "+1 234 567 8900",
+        "location": "City, Country",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername",
+        "portfolio": "yourwebsite.com"
+    },
+    "summary": "Write a 2-3 sentence professional summary here. Mention your role, years of experience, and your top 2 strengths.",
+    "skills": {
+        "Category 1": ["Skill A", "Skill B", "Skill C"],
+        "Category 2": ["Skill D", "Skill E", "Skill F"],
+        "Tools": ["Git", "VS Code", "Docker"]
+    },
+    "experience": [
+        {
+            "company": "Company Name",
+            "role": "Your Job Title",
+            "dates": "Jan 2022 - Present",
+            "location": "Remote",
+            "bullets": [
+                "Describe an achievement using the format: Action verb + what you did + measurable result.",
+                "Example: Reduced report generation time by 40% by automating data pipelines with Python."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "University Name",
+            "degree": "Your Degree",
+            "dates": "Sep 2017 - May 2021"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Project Name",
+            "technologies": ["Python", "Streamlit"],
+            "link": "github.com/yourusername/project",
+            "bullets": [
+                "What did you build and why?",
+                "What was the impact or outcome?"
+            ]
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}
